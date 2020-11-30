@@ -1,2 +1,5 @@
-# firstgame
-this is my first game, dont judge pls
+# First Game
+2D Game made with Pygame as an initial experimentation with Python. 
+
+- Authors: 
+Nepto
